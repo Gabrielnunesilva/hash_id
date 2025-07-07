@@ -32,7 +32,7 @@ pip install hashid PySimpleGUI
 
 4- Execute o programa:
 ```sh
-hash_id.py
+app_hash.py
 ```
 <br />
 
