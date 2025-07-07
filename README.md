@@ -59,7 +59,8 @@ ou ID.
 
 <br />
 <br />
-> Para saber mais sobre a biblioteca hashID, clique aqui [`hashID`](https://pypi.org/project/hashID)
+
+>Para saber mais sobre a biblioteca hashID, clique aqui: [hashID](https://pypi.org/project/hashID)
 
 
 
